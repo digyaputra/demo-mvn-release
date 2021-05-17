@@ -29,8 +29,8 @@
   </dependencies>
 
   <scm>
-    <developerConnection>scm:git:git@github.com.paykita:digyamandala/demo-maven-release.git</developerConnection>
-    <connection>scm:git:git@github.com.paykita:digyamandala/demo-maven-release.git</connection>
+    <developerConnection>scm:git:git@git-digya-paykita:digyamandala/demo-maven-release.git</developerConnection>
+    <connection>scm:git:git@git-digya-paykita:digyamandala/demo-maven-release.git</connection>
     <tag>demo-0.0.1</tag>
   </scm>
 
